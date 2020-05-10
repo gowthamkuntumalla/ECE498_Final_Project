@@ -2,6 +2,20 @@
 Data Science and Analytics course project
 
 Team: Akhilesh Somani, Gowtham Kuntumalla, Manan Mehta
+
+For Feature Generation:
+1. run Project_as.ipynb and then project_GK_generate_features_csv.ipynb
+
+For RNN: 
+1. run project_GK_price_prediction_RNNs.ipynb
+
+For Clustering: 
+1. run project_GK_Clustering.ipynb and project_AS.ipynb
+
+For Portofolios:
+1. run project_MM.ipynb
+
+
 dependencies :
 Install tensor flow: https://www.tensorflow.org/install
 
