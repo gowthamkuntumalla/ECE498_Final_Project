@@ -3,17 +3,14 @@ Data Science and Analytics course project
 
 Team: Akhilesh Somani, Gowtham Kuntumalla, Manan Mehta
 
-For Feature Generation:
-1. run project_AS.ipynb and then project_GK.ipynb
+For Feature Generation and Clustering:
+1. run FeatureG_PCA_KMeans.ipynb and then FeatureG_HierachicalC.ipynb
 
 For RNN: 
-1. run project_GK_RNN.ipynb
-
-For Clustering: 
-1. run project_GK.ipynb and project_AS.ipynb (any order)
+1. run RNN_LSTM.ipynb
 
 For Stock Portofolios:
-1. run project_MM.ipynb
+1. run PortfolioBuilding.ipynb
 
 
 dependencies :
